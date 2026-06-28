@@ -1,0 +1,2 @@
+# Data Structures
+Following the MIT courseware course on data structures and algorithms. The algorithms and their methodologies studied will be put in this repository for future use. Planned languages to be used include C# and python.
